@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/OptimalLive.ipa</string>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/yuyin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://lebolive-1255651273.image.myqcloud.com/image/2018/09/13/1536802071778.png</string>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://thirdqq.qlogo.cn/qqapp/1106652113/EF2A1FC4D053762636772017768A0DC1/100</string>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/iconx2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.qgbes.pjob</string>
+				<string>com.YuYin.LeBoLiveShow</string>
 				<key>bundle-version</key>
 				<string>1.6.2</string>
 				<key>kind</key>
