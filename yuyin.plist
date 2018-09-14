@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/icon.png</string>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/icon512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/iconx2.png</string>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/icon57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
