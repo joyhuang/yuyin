@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://lebolive-1255651273.file.myqcloud.com/static/ipa/OptimalLive.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://lebolive-1255651273.image.myqcloud.com/image/2018/09/13/1536802071778.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://thirdqq.qlogo.cn/qqapp/1106652113/EF2A1FC4D053762636772017768A0DC1/100</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.qgbes.pjob</string>
+				<key>bundle-version</key>
+				<string>1.6.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>雨音APP下载</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
